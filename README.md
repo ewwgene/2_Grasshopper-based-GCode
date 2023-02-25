@@ -1,9 +1,9 @@
 
 # [ewwgene.github.io](https://ewwgene.github.io/)
-### /TV_Unit_02. — _DESIGN SERIES._
-[![TV_Unit_02](/100.jpg)](https://ewwgene.github.io/TV_Unit_02/Carousel)<a id="101" href="https://ewwgene.github.io/TV_Unit_02/Carousel/#101"><img src="https://ewwgene.github.io/TV_Unit_02/101.jpg" height="66"></a> 
+### TV_Unit_02. — _DESIGN SERIES._
+[![TV_Unit_02](/100.jpg)](https://ewwgene.github.io/TV_Unit_02/Carousel)<a id="101" href="https://ewwgene.github.io/TV_Unit_02/Carousel/#101"><img src="https://ewwgene.github.io/TV_Unit_02/101.jpg" height="66"></a> <a id="text">&#160;</a>
 
-<a id="text"></a>[_`SOLID_PINE_WOOD`_](https://ewwgene.github.io) [_`PLASTER`_](https://ewwgene.github.io) 
+[_`SOLID_PINE_WOOD`_](https://ewwgene.github.io) [_`PLASTER`_](https://ewwgene.github.io) 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
