@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) TV_Unit_02
 
-[![TV_Unit_02](/100.jpg)](https://ewwgene.github.io/TV_Unit_02/Carousel)<a id="101" href="https://ewwgene.github.io/TV_Unit_02/Carousel/#101"><img src="https://ewwgene.github.io/TV_Unit_02/101.jpg" height="66"></a> <a id="text">&#160;</a>
+[![TV_Unit_02](/100.jpg)](https://ewwgene.github.io/TV_Unit_02/Carousel)<br> <a id="101" href="https://ewwgene.github.io/TV_Unit_02/Carousel/#101"><img src="https://ewwgene.github.io/TV_Unit_02/101.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`PLASTER`_ 
 
@@ -17,5 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="300" href="https://ewwgene.github.io/TV_Unit_02/Carousel/#300"><img src="https://ewwgene.github.io/TV_Unit_02/300.jpg" height="66"></a> <a id="301" href="https://ewwgene.github.io/TV_Unit_02/Carousel/#301"><img src="https://ewwgene.github.io/TV_Unit_02/301.jpg" height="66"></a> 
 
 _`DESIGN SERIES`_ _`SCULPTURE`_ 
+
+<br> 
+
 ### [ABOUT /](https://ewwgene.github.io/ABOUT)
 ### [MAIL_TO:](mailto:r0cam@me.com)
